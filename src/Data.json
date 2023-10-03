@@ -1,0 +1,445 @@
+[
+    {
+      "brand": "Toyota",
+      "price": 25000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "30 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://images.livemint.com/img/2022/12/17/1600x900/Toyota_Innova_Hycross_1_1669364224056_1671277981028_1671277981028.webp"
+    },
+    {
+      "brand": "Honda",
+      "price": 23000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "32 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://imgd.aeplcdn.com/0x0/n/cw/ec/27074/civic-exterior-right-front-three-quarter-148155.jpeg?q=80"
+    },
+    {
+      "brand": "Ford",
+      "price": 27000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "28 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://images.hindustantimes.com/auto/img/2022/03/01/600x338/Ford_Everest_1646121762249_1646121766874.JPG"
+    },
+    {
+      "brand": "Chevrolet",
+      "price": 26000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "29 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://images.ctfassets.net/uwf0n1j71a7j/34uWl8NLcN7HQ3RAw4U8nd/c1f2824cf4ca55cfeff40c96e960049e/chevrolet-car-insurance.svg"
+    },
+    {
+      "brand": "Nissan",
+      "price": 24000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "31 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://fastly-production.24c.in/hello-ar/dev/uploads/2cf1f1c8-a03c-4e6d-a6a5-bca63b6ea6c9/b5e2bcb6-ec23-4725-9bc6-5a95ebebc158/43.jpg?w=690&auto=format"
+    },
+    {
+      "brand": "Kia",
+      "price": 22000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "33 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://www.kbb.com/wp-content/uploads/2022/11/2024-kia-seltos-driving-front-left-3qtr.jpg"
+    },
+    {
+      "brand": "Hyundai",
+      "price": 23000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "32 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://stimg.cardekho.com/images/carexteriorimages/320x224/Hyundai/Exter/10443/1694584843066/front-left-side-47.jpg"
+    },
+    {
+      "brand": "BMW",
+      "price": 45000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "25 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://cdni.autocarindia.com/utils/imageresizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/BMW-2-Series-Gran-Coupe-271220221147.jpg"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "price": 48000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "24 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2017/03/30/Photos/Processed/mmm-k2MD--621x414@LiveMint.jpg"
+    },
+    {
+      "brand": "Audi",
+      "price": 42000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "26 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
+    },
+    {
+      "brand": "Lexus",
+      "price": 46000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "23 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Lexus/ES/9399/1665652746848/front-left-side-47.jpg"
+    },
+    {
+      "brand": "Tesla",
+      "price": 60000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "260 miles",
+      "oil_type": "Electric",
+      "type": "automatic",
+      "imageURL": "https://static.dezeen.com/uploads/2019/11/cybertruck-tesla-elon-musk-steel-electric-vehicle-car-truck-_dezeen_2364_sq.jpg"
+    },
+    {
+      "brand": "Volvo",
+      "price": 50000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "27 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Volvo/XC-90/10588/1689924353443/front-view-118.jpg"
+    },
+    {
+      "brand": "Mazda",
+      "price": 25000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "30 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://stimg2.cardekho.com/images/carNewsimages/userimages/15557/Mazda.jpg?tr=w-360?tr=w-300"
+    },
+    {
+      "brand": "Subaru",
+      "price": 26000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "28 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://www.cnet.com/a/img/resize/ec8be9f99eec63d6dc671cd5a0bdd9a57e627583/hub/2020/09/04/a7179875-8e9f-46a4-9db4-9523e2f610bb/2021-subaru-impreza-promo.jpg?auto=webp&fit=crop&height=675&width=1200"
+    },
+    {
+      "brand": "Volkswagen",
+      "price": 24000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "29 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://assets.volkswagen.com/is/image/volkswagenag/taigun-500x667?Zml0PWNyb3AlMkMxJndpZD01MDAmaGVpPTY2NyZmbXQ9anBlZyZxbHQ9NzkmYmZjPW9mZiYyOGM0"
+    },
+    {
+      "brand": "Jaguar",
+      "price": 60000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "24 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://static.autox.com/uploads/2022/06/Jaguar-F-TYPE-Yellow.jpg"
+    },
+    {
+      "brand": "Porsche",
+      "price": 80000,
+      "release_year": 2022,
+      "seating_capacity": 4,
+      "mileage": "22 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://imgd.aeplcdn.com/1200x900/n/cw/ec/135717/right-front-three-quarter9.jpeg?isig=0&wm=0"
+    },
+    {
+      "brand": "Acura",
+      "price": 35000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "27 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://hips.hearstapps.com/hmg-prod/images/dsc05984-649d90d2c4d47.jpg?crop=0.577xw:0.486xh;0.296xw,0.385xh&resize=600:*"
+    },
+    {
+      "brand": "Land Rover",
+      "price": 60000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "23 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://imgd.aeplcdn.com/0X0/n/cw/ec/107719/range-rover-exterior-right-front-three-quarter-46.jpeg?isig=0&q=80"
+    },
+    {
+      "brand": "Jeep",
+      "price": 28000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "25 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://images.91wheels.com//assets/b_images/main/models/profile/profile1670415209.jpg"
+    },
+    {
+      "brand": "Ram",
+      "price": 32000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "26 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://static.toiimg.com/thumb/msid-99291501,width-1280,height-720,resizemode-4/.jpg"
+    },
+    {
+      "brand": "Dodge",
+      "price": 29000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "24 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://cars.usnews.com/static/images/Auto/izmo/i159614882/2022_dodge_challenger_angularfront.jpg"
+    },
+    {
+      "brand": "Chrysler",
+      "price": 28000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "25 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://images.livemint.com/img/2022/12/17/1600x900/Toyota_Innova_Hycross_1_1669364224056_1671277981028_1671277981028.webp"
+    },
+    {
+      "brand": "Buick",
+      "price": 33000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "26 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://images.livemint.com/img/2022/12/17/1600x900/Toyota_Innova_Hycross_1_1669364224056_1671277981028_1671277981028.webp"
+    },
+    {
+      "brand": "Cadillac",
+      "price": 45000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "23 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://images.livemint.com/img/2022/12/17/1600x900/Toyota_Innova_Hycross_1_1669364224056_1671277981028_1671277981028.webp"
+    },
+    {
+      "brand": "Lincoln",
+      "price": 42000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "24 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://images.livemint.com/img/2022/12/17/1600x900/Toyota_Innova_Hycross_1_1669364224056_1671277981028_1671277981028.webp"
+    },
+    {
+      "brand": "Mitsubishi",
+      "price": 23000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "32 mpg",
+      "oil_type": "Regular",
+      "type": "automatic",
+      "imageURL": "https://images.livemint.com/img/2022/12/17/1600x900/Toyota_Innova_Hycross_1_1669364224056_1671277981028_1671277981028.webp"
+    },
+    {
+      "brand": "Infiniti",
+      "price": 38000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "25 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://images.livemint.com/img/2022/12/17/1600x900/Toyota_Innova_Hycross_1_1669364224056_1671277981028_1671277981028.webp"
+    },
+    {
+      "brand": "Genesis",
+      "price": 48000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "26 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://images.livemint.com/img/2022/12/17/1600x900/Toyota_Innova_Hycross_1_1669364224056_1671277981028_1671277981028.webp"
+    },
+    {
+      "brand": "Mini",
+      "price": 30000,
+      "release_year": 2022,
+      "seating_capacity": 4,
+      "mileage": "31 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://images.livemint.com/img/2022/12/17/1600x900/Toyota_Innova_Hycross_1_1669364224056_1671277981028_1671277981028.webp"
+    },
+    {
+      "brand": "Fiat",
+      "price": 24000,
+      "release_year": 2022,
+      "seating_capacity": 4,
+      "mileage": "29 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://images.livemint.com/img/2022/12/17/1600x900/Toyota_Innova_Hycross_1_1669364224056_1671277981028_1671277981028.webp"
+    },
+    {
+      "brand": "Smart",
+      "price": 23000,
+      "release_year": 2022,
+      "seating_capacity": 2,
+      "mileage": "28 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://images.livemint.com/img/2022/12/17/1600x900/Toyota_Innova_Hycross_1_1669364224056_1671277981028_1671277981028.webp"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "price": 55000,
+      "release_year": 2022,
+      "seating_capacity": 2,
+      "mileage": "24 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://imgd.aeplcdn.com/1200x900/n/cw/ec/138699/right-front-three-quarter0.jpeg?isig=0&wm=0"
+    },
+    {
+      "brand": "Maserati",
+      "price": 80000,
+      "release_year": 2022,
+      "seating_capacity": 4,
+      "mileage": "22 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://images.livemint.com/img/2022/12/17/1600x900/Toyota_Innova_Hycross_1_1669364224056_1671277981028_1671277981028.webp"
+    },
+    {
+      "brand": "Lamborghini",
+      "price": 300000,
+      "release_year": 2022,
+      "seating_capacity": 2,
+      "mileage": "13 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Lamborghini/Aventador/9170/1676530772968/front-left-side-47.jpg"
+    },
+    {
+      "brand": "Ferrari",
+      "price": 300000,
+      "release_year": 2022,
+      "seating_capacity": 2,
+      "mileage": "13 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://storage.googleapis.com/pod_public/1300/173323.jpg"
+    },
+    {
+      "brand": "Aston Martin",
+      "price": 280000,
+      "release_year": 2022,
+      "seating_capacity": 2,
+      "mileage": "14 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://cdn.carbuzz.com/gallery-images/1600/1135000/300/1135317.jpg"
+    },
+    {
+      "brand": "Rolls-Royce",
+      "price": 450000,
+      "release_year": 2022,
+      "seating_capacity": 5,
+      "mileage": "14 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/phantom-series-ii-in-detail/page-properties/01_RR_PHANTOM-single-card-min.jpg/jcr:content/renditions/cq5dam.web.1920.webp"
+    },
+    {
+      "brand": "Bentley",
+      "price": 400000,
+      "release_year": 2022,
+      "seating_capacity": 4,
+      "mileage": "16 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://i.ytimg.com/vi/1rzvicpVnFA/sddefault.jpg"
+    },
+    {
+      "brand": "Bugatti",
+      "price": 3000000,
+      "release_year": 2022,
+      "seating_capacity": 2,
+      "mileage": "8 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://c.ndtvimg.com/2023-02/ovcph38g_bugatti_625x300_07_February_23.jpg?im=Resize=(1230,900)"
+    },
+    {
+      "brand": "Koenigsegg",
+      "price": 3000000,
+      "release_year": 2022,
+      "seating_capacity": 2,
+      "mileage": "11 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Regera_%28light_gradient%29.png"
+    },
+    {
+      "brand": "McLaren",
+      "price": 400000,
+      "release_year": 2022,
+      "seating_capacity": 2,
+      "mileage": "15 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mclaren/GT/9171/1656083331448/front-left-side-47.jpg?impolicy=resize&imwidth=480"
+    },
+    {
+      "brand": "Pagani",
+      "price": 3500000,
+      "release_year": 2022,
+      "seating_capacity": 2,
+      "mileage": "10 mpg",
+      "oil_type": "Premium",
+      "type": "automatic",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pagani%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0023%29.jpg"
+    }
+
+
+  ]
+  
